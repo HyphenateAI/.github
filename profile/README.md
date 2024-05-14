@@ -1,2 +1,2 @@
 ## Hyphenate
-Find us at https://getpulley.ai
+Find us at https://hyphenate.ai
